@@ -1,0 +1,31 @@
+18  curl -L -o planets.zip "https://github.com/WildCodeSchool/quests-resources/blob/master/terminal/planets.zip?raw=true"
+   19  unzip planets.zip
+   20  ls
+   21  ls planets
+   22  mkdir planets/real
+   23  mkdir planets/fictional
+   24  mkdir planets/inhabited
+   25  mkdir planets/real/terrestrial
+   26  mkdir planets/real/gas-giant
+   27  mkdir planets/real/dwarf-planets
+   28  mv planets/earth.jpeg planets/real/terrestrial/
+   29  ls -l planets/real/terrestrial/
+   30  ls planets/real/terrestrial/
+   31  mv planets/mars.jpeg planets/real/terrestrial/
+   32  ls planets/real/terrestrial/
+   33  ls 
+   34  ls planets
+   35  mv planets/cybertron.jpeg planets/fictional/
+   36  mv planets/arrakis.jpeg planets/fictional/
+   37  mv planets/coruscant.jpeg planets/fictional/
+   38  ls -l planets
+   39  mv planets/*.jpeg planets/real/
+   40  ls -l planets
+   41  cp planets/real/terrestrial/earth.jpeg planets/inhabited/
+   42  cp planets/fictional/*.jpeg planets/inhabited/
+   43  ls planets/inhabited/
+   44  rm -r planets/real/dwarf-planets
+   45  ls -l planets/real/
+   46  find
+   47  cd planets/
+   48  find

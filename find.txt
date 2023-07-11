@@ -1,0 +1,23 @@
+mary@mary-VirtualBox:~/planets$ find
+.
+./real
+./real/uranus.jpeg
+./real/pluto.jpeg
+./real/gas-giant
+./real/venus.jpeg
+./real/jupiter.jpeg
+./real/neptune.jpeg
+./real/saturn.jpeg
+./real/mercury.jpeg
+./real/terrestrial
+./real/terrestrial/earth.jpeg
+./real/terrestrial/mars.jpeg
+./fictional
+./fictional/cybertron.jpeg
+./fictional/arrakis.jpeg
+./fictional/coruscant.jpeg
+./inhabited
+./inhabited/earth.jpeg
+./inhabited/cybertron.jpeg
+./inhabited/arrakis.jpeg
+./inhabited/coruscant.jpeg

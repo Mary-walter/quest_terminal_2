@@ -29,3 +29,75 @@
    46  find
    47  cd planets/
    48  find
+49  history
+
+   50  cd ..
+
+   51  nano history.txt
+
+   52  nano find.txt
+
+   53  ls -l
+
+   54  cat Unix_commands.md
+
+   55  curl -o Unix_commands.md https://gist.githubusercontent.com/phaneendra/3804036/raw/f124b9f7703114d6be22f55e775cd2d015a45a91/UnixCommands.md
+
+   56  ls
+
+   57  cat Unix_commands.md
+
+   58  more Unix_commands.md 
+
+   59  more /var/log/auth.log
+
+   60  cat /var/log/auth.log
+
+   61  more /var/log/auth.log
+
+   62  less Unix_commands.md 
+
+   63  ls
+
+   64  cd planets
+
+   65  ls
+
+   66  ls real
+
+   67  cd real
+
+   68  mv earth.jpeg terrestrial
+
+   69  mv earth.jpeg terrestrial/
+
+   70  mv earth.jpeg /terrestrial
+
+   71  ls
+
+   72  find
+
+   73  mv mercury.jpeg terrestrial
+
+   74  mv venus.jpeg terrestrial
+
+   75  mv jupiter.jpeg gas-giant
+
+   76  mv saturn.jpeg gas-giant
+
+   77  mv uranus.jpeg gas-giant
+
+   78  mv neptune.jpeg gas-giant
+
+   79  find
+
+   80  rm plto.jpeg
+
+   81  rm pluto.jpeg
+
+   82  find
+
+   83  cd ..
+
+   84  find planets
+
